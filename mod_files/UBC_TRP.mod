@@ -38,5 +38,6 @@ PARAMETER {
     }
     
     BREAKPOINT { 
+        itrp = gtrp*(v - etrp) * (TonicTRP + cAMPi*fcAMP )
 	i = itrp
 } 
